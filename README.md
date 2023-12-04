@@ -5,7 +5,7 @@ My first repository. GROUP 6
 | ----------- |
 | LOKI SERIES |
 
-|GROUP 6 APP DEV|
+| GROUP 6 APP DEV |
 
 
 
